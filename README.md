@@ -7,7 +7,7 @@ Windows (.exe) file can be found here: [PW_Generator_Win](https://nxt-cloud.de/s
 ## How to use
 1. enter password length
 2. enter number of passwords desired
-3. click on ""Erstellen
+3. click on "Erstellen"
 4. select directory folder
 
 ## Screenshot
