@@ -1,7 +1,7 @@
 # QR_PW_Generator
 simple python password generator - outputs qr codes
 
-Windows (.exe) file can be found here: [PW_Generator_Win](https://nxt-cloud.de/s/xBQcQfDLY34b2zG).
+Windows (.exe) file can be found here: [PW_Generator_Win](https://nxt-cloud.de/s/orAEMiHjG2arLYs).
 
 
 ## How to use
